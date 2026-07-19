@@ -1,56 +1,76 @@
-# Hi there, I'm Sara Yehia 👋
+<h1 align="center">Hi 👋, I'm Sara Yehia</h1>
+<h3 align="center">Fresh Graduate Data Scientist | Machine Learning Enthusiast | AI Learner</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaraYehia66&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 👩‍💻 About Me
 
 🎓 Fresh Graduate in Data Science from Alexandria University.
 
-💡 Passionate about transforming raw data into actionable insights through Machine Learning, Data Analysis, and AI.
+💡 I'm passionate about transforming raw data into meaningful insights using Data Analysis, Machine Learning, and Artificial Intelligence.
 
-🌱 Currently expanding my knowledge in:
-- Machine Learning
+🚀 I enjoy working on real-world problems involving predictive modeling, NLP, and data visualization.
+
+🌱 Currently learning:
 - Deep Learning
 - Natural Language Processing (NLP)
-- Data Engineering
+- MLOps
 
-## 🚀 About Me
+📫 **Email:** sarayehia788@gmail.com
 
-- 📊 I enjoy solving real-world problems using data.
-- 🤖 Experienced in building Machine Learning and NLP projects.
-- 📈 Interested in Data Analytics, Predictive Modeling, and MLOps.
-- 💻 Always learning new technologies and improving my skills.
+🌐 **Portfolio:** https://sarayehia66.github.io/My-Portfolio/
+
+💼 **LinkedIn:** https://www.linkedin.com/in/sarayehia33
+
+---
 
 ## 🛠️ Tech Stack
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 👨‍💻 Programming Languages
 
-### Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data Science & Machine Learning
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 
-### Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+### 📈 Data Visualization
 
-### Databases
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### 🗄️ Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### Tools
+### ☁️ Cloud & Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
 
-## 📌 Featured Projects
+---
 
-### 📈 A/B Testing Analytics Dashboard
+## 🚀 Featured Projects
+
+### 📊 A/B Testing Analytics Dashboard
 - Statistical Analysis
+- Experiment Evaluation
 - Power BI
 - Python
-- Experiment Evaluation
 
 ### 🤖 Emotion Classification using NLP
 - Text Preprocessing
@@ -58,25 +78,40 @@
 - Machine Learning
 - GloVe & Bag of Words
 
-### 📦 Demand Forecasting
-- PySpark
-- Time Series
+### 📦 Demand Forecasting using PySpark
+- Time Series Forecasting
 - Machine Learning
+- PySpark
 
 ### 📩 SMS Spam Detection
-- PySpark
 - NLP
-- Classification
+- Text Classification
+- PySpark
 
-## 📊 GitHub Stats
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=SaraYehia66&theme=tokyonight" />
 </p>
+
+---
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/...
-- Portfolio: https://sarayehia66.github.io/My-Portfolio/
-- Email: your_email@example.com
+<p align="center">
+
+<a href="mailto:sarayehia788@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sarayehia33">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://sarayehia66.github.io/My-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
+</p>
