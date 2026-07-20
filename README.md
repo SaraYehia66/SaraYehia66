@@ -69,13 +69,6 @@ Designed a text classification model to identify spam messages using natural lan
 **Technologies:** PySpark, NLP, Text Classification
 
 ---
-## GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaraYehia66&theme=tokyonight" />
-</p>
-
----
 
 ## Contact
 
