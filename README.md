@@ -1,10 +1,9 @@
-<h1 >Hi, I'm Sara Yehia 👋</h1>
-<h3 align="center">Fresh Graduate Data Scientist | Machine Learning Enthusiast | AI Learner</h3>
+# Hi, I'm Sara Yehia 👋
+### Data Scientist
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaraYehia66&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+> Specialized in machine learning models with a focused interest in practical AI implementation.
 
+![Profile Views](https://komarev.com/ghpvc/?username=SaraYehia66&label=Profile%20Views&color=0e75b6&style=flat)
 ---
 
 ## 👩‍💻 About Me
