@@ -1,6 +1,6 @@
-# Hi, I'm Sara Yehia 👋
-
-### Data Scientist
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaraYehia66/SaraYehia66/main/Sara%20Yehia%20Data%20Scientist%20(3).gif" alt="Banner" width="100%">
+</p>
 
 > Specializing in the design and deployment of machine learning models, with a focused interest in practical, production-ready AI implementation.
 
