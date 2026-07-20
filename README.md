@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sara Yehia</h1>
+<h1 >Hi, I'm Sara Yehia 👋</h1>
 <h3 align="center">Fresh Graduate Data Scientist | Machine Learning Enthusiast | AI Learner</h3>
 
 <p align="center">
