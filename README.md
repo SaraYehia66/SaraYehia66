@@ -8,23 +8,23 @@
 
 ## 👩‍💻 About Me
 
-🎓 Fresh Graduate in Data Science from Alexandria University.
+🎓 Data Science Graduate from Alexandria University.
 
-💡 I'm passionate about transforming raw data into meaningful insights using Data Analysis, Machine Learning, and Artificial Intelligence.
+💡 Focused on transforming complex data into actionable insights through Data Analysis, Machine Learning, and Artificial Intelligence.
 
-🚀 I enjoy working on real-world problems involving predictive modeling, NLP, and data visualization.
+🚀 Experienced in solving real-world challenges with predictive modeling, NLP, and interactive data visualization.
 
-🌱 Currently learning:
-- Deep Learning
-- Natural Language Processing (NLP)
-- MLOps
+🌱 **Currently Expanding Skills In:**
+- Deep Learning Frameworks
+- Advanced Natural Language Processing (NLP)
+- MLOps & Model Deployment
 
-📫 **Email:** sarayehia788@gmail.com
+📫 **Contact & Links:**
+* **Email:** [sarayehia788@gmail.com](mailto:sarayehia788@gmail.com)
+* **Portfolio:** [sarayehia66.github.io/My-Portfolio](https://sarayehia66.github.io/My-Portfolio/)
+* **LinkedIn:** [linkedin.com/in/sarayehia33](https://www.linkedin.com/in/sarayehia33)
 
-🌐 **Portfolio:** https://sarayehia66.github.io/My-Portfolio/
-
-💼 **LinkedIn:** https://www.linkedin.com/in/sarayehia33
-
+---
 ---
 
 ## 🛠️ Tech Stack
